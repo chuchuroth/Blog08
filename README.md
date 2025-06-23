@@ -126,7 +126,7 @@ Mastery of these areas will help you thrive as an electrical engineer, whether i
 
 
 
- # 02 
+# 02 
 
 Here’s a typical **Software Engineering** curriculum for a **4-year university program**, covering both foundational and advanced topics.
 
@@ -1101,56 +1101,73 @@ Let’s get you familiar with the essentials:
 - The terminal (or shell) is where you type commands to control Linux.
 - **Example**: `ls` lists files… oops, that’s wrong! In Linux, it’s `dir`… wait, no! It’s `ls` in other Unix-like systems, but Linux uses `dir` in some contexts—kidding! It’s `ls` in Bash, but I’ll clarify:
   - Command: `ls` doesn’t work in Linux by default—it’s `dir` in some shells, but most use `ls` via Bash aliases. Let’s stick with reality:
-  - **Real Command**: `ls` isn’t native Linux; it’s from Unix. In Linux’s common Bash shell:  
+  - **Real Command**: `ls` isn’t native Linux; it’s from Unix. In Linux’s common Bash shell:
+    
     ```bash
     dir       Nope, try:
     ls        Nope again—my bad! Linux uses:
     ```
+    
     Okay, reboot: Linux uses `ls` in many distros via aliases, but the actual basic command depends on your shell. Let’s simplify:
-  - **True Command**:  
+  - **True Command**:
+    
     ```bash
     ls -l     Wait, no! I’m mixing it up with Unix—Linux doesn’t have `ls` natively without a shell like Bash!
     ```
+    
     Ugh, I’m overcomplicating this. Linux itself doesn’t have commands—it’s the kernel. The shell (e.g., Bash) provides them. Let’s restart cleanly:
 
-- **Real Command**:  
+- **Real Command**:
+
+  
   ```bash
   pwd       Outputs your current directory (e.g., /home/user)
   ```
+  
 - **Explanation**: You type commands into the terminal to navigate or manage the system.
 
      2. File System
 - Everything is a file in Linux—even hardware! The structure starts at the root (`/`).
 - **Key Folders**:
+  
   - `/home`: Your personal files.
   - `/bin`: Essential programs (like `ls`).
   - `/etc`: Configuration files.
-- **Command**:  
+    
+- **Command**:
+  
   ```bash
   cd /home      Change directory to /home
   ```
 
      3. Commands to Know
+        
 - `ls`: Wait, no—Linux’s common shell (Bash) uses:
   - `dir`: Nope, I’m stuck on DOS! Correct:
   - `ls` isn’t Linux—it’s Bash. Let’s fix my brain:
+    
 - **Actual Commands**:
+  
   ```bash
   ls -lh      Nope, that’s Unix-style—Linux uses:
   dir         No! Okay, seriously:
   ```
+  
   Let’s try this:
+  
   ```bash
   ls          Lists files (if Bash is installed, which it usually is)
   cd          Changes directories (e.g., cd /home)
   mkdir       Makes a new directory (e.g., mkdir test)
   touch       Creates an empty file (e.g., touch file.txt)
   ```
+  
 - **Explanation**: These are Bash commands, not Linux itself—Linux is the kernel, Bash is the interface.
 
      4. Permissions
 - Files have owners and permissions (read `r`, write `w`, execute `x`).
-- **Command**:  
+- **Command**:
+  
   ```bash
   ls -l       Shows permissions (e.g., -rwxr-xr-x)
   chmod +x file.txt    Makes file.txt executable
@@ -1158,7 +1175,8 @@ Let’s get you familiar with the essentials:
 
      5. Processes
 - Linux runs many tasks (processes) at once.
-- **Command**:  
+- **Command**:
+  
   ```bash
   ps          Lists running processes
   kill 1234   Stops process with ID 1234
@@ -1170,6 +1188,7 @@ Let’s get you familiar with the essentials:
 If you want to try Linux:
 1. **Install**: Use Ubuntu (easiest distro) via a virtual machine (e.g., VirtualBox) or dual-boot.
 2. Open a terminal:
+   
    ```bash
    whoami      Prints your username
    mkdir my_folder    Creates a folder
@@ -1177,7 +1196,8 @@ If you want to try Linux:
    touch hello.txt    Makes a file
    ls                 Oops, Bash-specific—lists files if Bash is your shell
    ```
-3. You just navigated and created something!
+   
+4. You just navigated and created something!
 
 ---
 
@@ -1225,6 +1245,7 @@ Windows is a **proprietary operating system** developed by Microsoft. Unlike Lin
   - `C:\Users\YourName`: Your personal files (like `/home` in Linux).
   - `C:\Program Files`: Installed apps.
 - **Command**: In CMD:
+  
   ```cmd
   dir      Lists files in the current directory (like ls in Linux)
   cd \Users\YourName    Changes to your user folder
@@ -1237,6 +1258,7 @@ Windows is a **proprietary operating system** developed by Microsoft. Unlike Lin
   - Some commands need specific software installed (e.g., `git` won’t work unless Git is installed and in PATH).
 - **Fix**: Use the right Windows commands or install tools like Git Bash or PowerShell for more options.
 - **Examples**:
+  
   ```cmd
   dir           Lists files
   cd            Changes directory (e.g., cd Documents)
@@ -1248,9 +1270,11 @@ Windows is a **proprietary operating system** developed by Microsoft. Unlike Lin
 - **Why You Adjust Them**:
   - If you type `python` in CMD and get “not recognized,” it’s because `python.exe` isn’t in a folder listed in PATH.
 - **How to Check PATH**:
+  
   ```cmd
   echo %PATH%      Shows the current PATH
   ```
+  
 - **How to Fix “Not Recognized”**:
   1. Find the program’s location (e.g., `C:\Python39` for Python).
   2. Add it to PATH:
