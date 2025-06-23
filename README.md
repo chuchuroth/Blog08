@@ -3,7 +3,7 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **1. Fundamental Knowledge**
++ **1. Fundamental Knowledge**
 - **Mathematics**: 
   - Calculus, linear algebra, differential equations, and probability.
   - Numerical methods for solving engineering problems.
@@ -21,7 +21,7 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **2. Core Electrical Engineering Topics**
++ **2. Core Electrical Engineering Topics**
 - **Electromagnetics**:
   - Maxwell’s equations.
   - Transmission lines, waveguides, and antenna design.
@@ -53,7 +53,7 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **3. Software and Tools**
++ **3. Software and Tools**
 - **Simulation Tools**:
   - MATLAB/Simulink, PSpice, LTspice.
   - ANSYS, HFSS, or COMSOL for electromagnetic simulation.
@@ -68,7 +68,7 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **4. Emerging Technologies**
++ **4. Emerging Technologies**
 - **Renewable Energy**:
   - Solar panels, wind turbines, and energy storage systems.
   - Smart grids and microgrids.
@@ -90,7 +90,7 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **5. Practical Knowledge**
++ **5. Practical Knowledge**
 - **Testing and Measurement**:
   - Use of multimeters, oscilloscopes, and signal generators.
   - Debugging hardware and firmware.
@@ -106,14 +106,14 @@ As an electrical engineer, certain foundational and specialized knowledge areas 
 
 ---
 
-### **6. Interdisciplinary Knowledge**
++ **6. Interdisciplinary Knowledge**
 - **Mechanical Engineering**: Thermal management, motors, and generators.
 - **Material Science**: Insulators, conductors, and semiconductors.
 - **Cybersecurity**: For secure SCADA and IoT systems.
 
 ---
 
-### **7. Problem-Solving Skills**
++ **7. Problem-Solving Skills**
 - Ability to troubleshoot electrical systems efficiently.
 - Analytical thinking for optimizing systems.
 - Innovative approaches to real-world constraints like cost, efficiency, and sustainability.
@@ -132,10 +132,10 @@ Here’s a typical **Software Engineering** curriculum for a **4-year university
 
 ---
 
-## **Year 1: Foundations**  
++ **Year 1: Foundations**  
 **Goal:** Establish a strong mathematical and programming foundation.
 
-### **Core Courses**
++ **Core Courses**
 1. **Mathematics for Computing**  
    - Calculus I & II  
    - Linear Algebra  
@@ -160,10 +160,10 @@ Here’s a typical **Software Engineering** curriculum for a **4-year university
 
 ---
 
-## **Year 2: Core Software Engineering**  
++ **Year 2: Core Software Engineering**  
 **Goal:** Build software development expertise and knowledge of core computing systems.
 
-### **Core Courses**
++ **Core Courses**
 1. **Data Structures and Algorithms II**  
    - Sorting, Searching, Graphs, Trees  
    - Algorithmic Complexity & Optimization  
@@ -190,10 +190,10 @@ Here’s a typical **Software Engineering** curriculum for a **4-year university
 
 ---
 
-## **Year 3: Advanced Topics & Specialization**  
++ **Year 3: Advanced Topics & Specialization**  
 **Goal:** Introduce specialization areas, advanced computing, and industry practices.
 
-### **Core Courses**
++ **Core Courses**
 1. **Advanced Software Engineering**  
    - Agile and DevOps Practices  
    - Software Project Management  
@@ -220,10 +220,10 @@ Here’s a typical **Software Engineering** curriculum for a **4-year university
 
 ---
 
-## **Year 4: Specialization & Capstone**  
++ **Year 4: Specialization & Capstone**  
 **Goal:** Allow students to focus on specific areas and complete a major project.
 
-### **Specialized Electives (Choose Based on Interest)**
++ **Specialized Electives (Choose Based on Interest)**
 1. **Advanced Topics**  
    - Blockchain Development  
    - Quantum Computing Fundamentals  
@@ -244,7 +244,7 @@ Here’s a typical **Software Engineering** curriculum for a **4-year university
 
 ---
 
-## **Summary of Key Topics by Year**
++ **Summary of Key Topics by Year**
 | Year | Focus Areas |
 |------|------------|
 | **1** | Programming, Mathematics, Computer Science Basics |
@@ -263,10 +263,10 @@ Here’s a **Machine Learning Software Engineering** curriculum designed as a **
 
 ---
 
-## **Year 1: Foundations of Software Engineering & Mathematics**  
++ **Year 1: Foundations of Software Engineering & Mathematics**  
 **Goal:** Build a strong foundation in mathematics, programming, and computing systems.
 
-### **Core Courses**
++ **Core Courses**
 1. **Mathematics for AI & ML**  
    - Calculus I & II  
    - Linear Algebra  
@@ -291,10 +291,10 @@ Here’s a **Machine Learning Software Engineering** curriculum designed as a **
 
 ---
 
-## **Year 2: Core Machine Learning & Software Engineering**  
++ **Year 2: Core Machine Learning & Software Engineering**  
 **Goal:** Strengthen software engineering skills and introduce ML fundamentals.
 
-### **Core Courses**
++ **Core Courses**
 1. **Advanced Data Structures & Algorithms**  
    - Graph Algorithms, Dynamic Programming  
    - Algorithm Complexity & Optimization  
@@ -326,10 +326,10 @@ Here’s a **Machine Learning Software Engineering** curriculum designed as a **
 
 ---
 
-## **Year 3: Advanced ML, AI, & Specialization**  
++ **Year 3: Advanced ML, AI, & Specialization**  
 **Goal:** Introduce deep learning, AI applications, and ML in production.
 
-### **Core Courses**
++ **Core Courses**
 1. **Deep Learning & Neural Networks**  
    - Artificial Neural Networks (ANNs)  
    - Convolutional Neural Networks (CNNs)  
@@ -361,10 +361,10 @@ Here’s a **Machine Learning Software Engineering** curriculum designed as a **
 
 ---
 
-## **Year 4: Capstone, Specialization, & Industry Readiness**  
++ **Year 4: Capstone, Specialization, & Industry Readiness**  
 **Goal:** Apply ML & software engineering skills to real-world problems.
 
-### **Specialized Electives (Choose Based on Interest)**
++ **Specialized Electives (Choose Based on Interest)**
 1. **Advanced Topics in AI**  
    - Generative AI (GPT, Diffusion Models)  
    - AI for Healthcare, Finance, Robotics  
@@ -386,7 +386,7 @@ Here’s a **Machine Learning Software Engineering** curriculum designed as a **
 
 ---
 
-## **Summary of Key Topics by Year**
++ **Summary of Key Topics by Year**
 | Year | Focus Areas |
 |------|------------|
 | **1** | Software Engineering Foundations, Programming, Mathematics, Probability & Statistics |
@@ -402,7 +402,7 @@ This curriculum ensures that graduates **master both software engineering and ma
 # 04
 It's fantastic that you're starting your programming journey! Here's a curated list of resources that are excellent for beginners, covering various learning styles:
 
-**Online Courses:**
++ **Online Courses:**
 
 * **CS50's Introduction to Computer Science (Harvard, edX):**
     * This is a legendary course. It provides a solid foundation in computer science principles, not just coding.
@@ -425,7 +425,7 @@ It's fantastic that you're starting your programming journey! Here's a curated l
     * It has a supportive community.
     * Link: freeCodeCamp
 
-**Websites:**
++ **Websites:**
 
 * **W3Schools:**
     * A fantastic resource for learning web development technologies (HTML, CSS, JavaScript).
@@ -436,7 +436,7 @@ It's fantastic that you're starting your programming journey! Here's a curated l
     * You can explore open-source projects, collaborate with others, and store your own code.
     * Link: GitHub
 
-**Books:**
++ **Books:**
 
 * **"Automate the Boring Stuff with Python" by Al Sweigart:**
     * A very practical book that teaches Python by showing you how to automate everyday tasks.
@@ -445,7 +445,7 @@ It's fantastic that you're starting your programming journey! Here's a curated l
     * Uses a visually engaging and brain-friendly approach to teaching programming concepts.
     * It's a good choice for those who prefer a more visual learning style.
 
-**Tips for Beginners:**
++ **Tips for Beginners:**
 
 * **Start with the fundamentals:** Don't rush into advanced topics.
 * **Practice regularly:** Coding is a skill that improves with practice.
@@ -466,7 +466,7 @@ Great, let’s shift gears to mechanical engineering and get you started on desi
 
 ---
 
-### 1. What is CAD and Why Use It?
++ 1. What is CAD and Why Use It?
 CAD software lets you create 2D or 3D models of mechanical parts on your computer. It’s like digital sketching but with precision and tools to test or manufacture the design later.
 
 - **Purpose**: Design parts (e.g., brackets, gears) for machines, robots, or enclosures.
@@ -474,7 +474,7 @@ CAD software lets you create 2D or 3D models of mechanical parts on your compute
 
 ---
 
-### 2. Choosing a Beginner-Friendly CAD Tool
++ 2. Choosing a Beginner-Friendly CAD Tool
 For a beginner, I recommend:
 - **Fusion 360**: Free for students/hobbyists, powerful, and widely used. It’s cloud-based and has tons of tutorials.
 - **Tinkercad**: Super simple, browser-based, great for absolute beginners (also free).
@@ -484,7 +484,7 @@ Since you’re starting out, let’s go with **Fusion 360**—it’s beginner-fr
 
 ---
 
-### 3. Basic Concepts in Mechanical Design
++ 3. Basic Concepts in Mechanical Design
 Before we dive in, here’s what you need to know:
 - **Sketching**: Draw 2D shapes (like a rectangle) as the base of your design.
 - **Extrusion**: Turn a 2D sketch into a 3D object by giving it thickness.
@@ -494,14 +494,14 @@ Before we dive in, here’s what you need to know:
 
 ---
 
-### 4. Designing a Simple Mounting Bracket
++ 4. Designing a Simple Mounting Bracket
 Let’s design a flat rectangular bracket (50 mm x 20 mm x 5 mm) with two holes for screws. This could hold, say, a small motor or your PCB from earlier.
 
-#### Step 1: Set Up Fusion 360
++ Step 1: Set Up Fusion 360
 - Open Fusion 360 and start a new design.
 - Select **mm** as your unit (top-right corner, under your profile).
 
-#### Step 2: Create a 2D Sketch
++ Step 2: Create a 2D Sketch
 - Click **Sketch** (top toolbar) → Pick the **XY plane** (the flat grid facing you).
 - Choose **Rectangle** (from the Sketch toolbar) → Select **2-Point Rectangle**.
 - Click the origin (0,0), drag to roughly 50 mm wide and 20 mm tall, then click again.
@@ -511,13 +511,13 @@ Let’s design a flat rectangular bracket (50 mm x 20 mm x 5 mm) with two holes 
   - Click the left line, type `20`, press Enter (locks height to 20 mm).
 - Hit **Finish Sketch** (top-right of Sketch toolbar).
 
-#### Step 3: Extrude into 3D
++ Step 3: Extrude into 3D
 - Click **Extrude** (under Create menu or press `E`).
 - Select your rectangle (it highlights).
 - In the dialog box, set **Distance** to `5 mm` (thickness).
 - Click **OK**. Boom—you’ve got a 3D plate!
 
-#### Step 4: Add Holes
++ Step 4: Add Holes
 - Click **Create** → **Hole**.
 - Pick the top face of your plate.
 - Click near one end (e.g., 10 mm from the left edge, centered vertically).
@@ -527,21 +527,21 @@ Let’s design a flat rectangular bracket (50 mm x 20 mm x 5 mm) with two holes 
 - Click **OK**.
 - Repeat for a second hole (e.g., 10 mm from the right edge).
 
-#### Step 5: Refine (Optional)
++ Step 5: Refine (Optional)
 - Add **Fillet** (under Modify):
   - Select the outer edges, set radius to `2 mm`, and click OK. This rounds the corners for a smoother look.
 
-#### Step 6: Check Your Work
++ Step 6: Check Your Work
 - Orbit around (hold middle mouse button, drag) to see it in 3D.
 - Looks like a flat plate with two holes? You’re golden!
 
-#### Step 7: Save and Export
++ Step 7: Save and Export
 - Save your file (File → Save As).
 - Export for 3D printing: File → 3D Print → Select your part → Output as STL.
 
 ---
 
-### 5. Key Tips for Beginners
++ 5. Key Tips for Beginners
 - **Start Simple**: Master basic shapes before tackling gears or curves.
 - **Use Dimensions**: Guessing sizes leads to sloppy designs—always specify.
 - **Watch Tutorials**: Search “Fusion 360 beginner bracket” on YouTube (e.g., Autodesk’s channel).
@@ -550,14 +550,14 @@ Let’s design a flat rectangular bracket (50 mm x 20 mm x 5 mm) with two holes 
 
 ---
 
-### 6. Your First Challenge
++ 6. Your First Challenge
 - Open Fusion 360 (or Tinkercad if you prefer simpler).
 - Make the bracket: 50 mm x 20 mm x 5 mm, two 4 mm holes (10 mm from each end).
 - Spin it around in 3D and feel proud!
 
 ---
 
-### Where to Go Next?
++ Where to Go Next?
 - Try adding a third hole or making the bracket L-shaped (extrude a second rectangle upward).
 - 3D print it if you have access to a printer (local libraries or makerspaces often have them).
 - Ask me to walk you through a specific step or try a different part (e.g., a gear or enclosure).
@@ -572,40 +572,40 @@ Glad you're curious about automation! It’s a fascinating field that ties toget
 
 ---
 
-### Programming Methods in Factory Automation (Besides PLCs)
++ Programming Methods in Factory Automation (Besides PLCs)
 PLCs are king in industrial settings due to their reliability and simplicity, but here are other common approaches:
 
-#### 1. Industrial Robots (Robot Programming)
++ 1. Industrial Robots (Robot Programming)
 - **What**: Robots (e.g., robotic arms from FANUC, ABB, or Universal Robots) handle tasks like welding, assembly, or material handling.
 - **Programming**: Often done with proprietary languages (e.g., RAPID for ABB, KRL for KUKA) or teach pendants (manually guiding the robot to record movements).
 - **Example**: You might program a robot to pick up a part and place it on a conveyor.
 - **Why**: Flexible and precise for repetitive tasks.
 
-#### 2. SCADA Systems (Supervisory Control and Data Acquisition)
++ 2. SCADA Systems (Supervisory Control and Data Acquisition)
 - **What**: Software for monitoring and controlling factory processes remotely.
 - **Programming**: Uses scripting (e.g., VBA, Python) alongside graphical interfaces to visualize data (e.g., tank levels, motor speeds).
 - **Example**: A SCADA dashboard might show a factory’s temperature and let you adjust it.
 - **Why**: Great for big-picture oversight, not low-level control like PLCs.
 
-#### 3. Microcontrollers (Embedded Systems)
++ 3. Microcontrollers (Embedded Systems)
 - **What**: Small chips (e.g., Arduino, Raspberry Pi, ESP32) for custom automation tasks.
 - **Programming**: C/C++, Python (via MicroPython), or Arduino’s simplified language.
 - **Example**: An Arduino could control a small conveyor belt with sensors.
 - **Why**: Cheap, versatile, and good for prototyping or small-scale automation.
 
-#### 4. PC-Based Control
++ 4. PC-Based Control
 - **What**: Industrial PCs running custom software to control machines.
 - **Programming**: Languages like C#, Python, or LabVIEW.
 - **Example**: A PC might run a vision system to inspect parts on an assembly line.
 - **Why**: More powerful than PLCs for complex logic or data processing.
 
-#### 5. CNC Programming (Computer Numerical Control)
++ 5. CNC Programming (Computer Numerical Control)
 - **What**: Controls machine tools (e.g., lathes, mills) for cutting metal or plastic.
 - **Programming**: G-code (a simple scripting language) or CAM software (e.g., Fusion 360 generates G-code from CAD designs).
 - **Example**: G-code tells a mill to cut your bracket’s holes precisely.
 - **Why**: Essential for manufacturing parts.
 
-#### 6. DCS (Distributed Control Systems)
++ 6. DCS (Distributed Control Systems)
 - **What**: A network of controllers for large, continuous processes (e.g., chemical plants).
 - **Programming**: Configured with proprietary software, sometimes with scripting.
 - **Example**: Regulates temperature and pressure in a refinery.
@@ -613,33 +613,33 @@ PLCs are king in industrial settings due to their reliability and simplicity, bu
 
 ---
 
-### Basic Concepts of Automation
++ Basic Concepts of Automation
 Now, let’s dive into the foundational ideas of automation so you can understand how these tools fit in.
 
-#### 1. What is Automation?
++ 1. What is Automation?
 Automation uses technology to perform tasks with minimal human input. In a factory, it’s about making processes faster, safer, and more consistent.
 
 - **Example**: A sensor detects a box, and a motor starts a conveyor—automatically.
 
-#### 2. Core Components
++ 2. Core Components
 - **Sensors**: “Eyes and ears” that detect the environment (e.g., temperature sensors, proximity sensors).
 - **Actuators**: “Muscles” that do the work (e.g., motors, pneumatic cylinders).
 - **Controllers**: “Brains” that decide what to do (e.g., PLCs, microcontrollers).
 - **Communication**: Links everything (e.g., wiring, Ethernet, or wireless protocols like Modbus).
 
-#### 3. Open-Loop vs. Closed-Loop Control
++ 3. Open-Loop vs. Closed-Loop Control
 - **Open-Loop**: No feedback. You send a command, and it happens (or doesn’t).
   - Example: Turn on a fan for 10 seconds, no check if it worked.
 - **Closed-Loop**: Uses feedback to adjust.
   - Example: A thermostat measures temperature and adjusts the heater to hit 20°C.
   - Key Term: **PID Control** (Proportional-Integral-Derivative)—a math trick to fine-tune closed-loop systems.
 
-#### 4. Inputs and Outputs (I/O)
++ 4. Inputs and Outputs (I/O)
 - **Inputs**: Signals from sensors (e.g., “Is the box here?” → Yes/No).
 - **Outputs**: Commands to actuators (e.g., “Start the motor”).
 - Automation ties inputs to outputs with logic (e.g., “If sensor = Yes, then motor = On”).
 
-#### 5. Sequencing
++ 5. Sequencing
 - Many factory tasks follow a step-by-step order.
 - Example: 
   1. Sensor detects part.
@@ -648,13 +648,13 @@ Automation uses technology to perform tasks with minimal human input. In a facto
   4. Clamp releases.
 - Programming defines this sequence.
 
-#### 6. Safety
++ 6. Safety
 - Automation must protect people and machines.
 - Example: Emergency stop buttons or light curtains (stops machines if someone crosses a beam).
 
 ---
 
-### Your First Automation Example
++ Your First Automation Example
 Let’s design a super basic system: **A conveyor stops when a box is detected.**
 - **Components**:
   - Sensor: Photoelectric sensor (detects the box).
@@ -686,14 +686,14 @@ Let’s design a super basic system: **A conveyor stops when a box is detected.*
 
 ---
 
-### Getting Started
++ Getting Started
 - **Try It**: Get an Arduino kit (e.g., $20 starter kit) with a sensor and motor. Build the conveyor example.
 - **Learn More**: Watch “Arduino basics” on YouTube (e.g., Paul McWhorter’s series).
 - **Next Step**: Add a second sensor to start the conveyor—now you’re sequencing!
 
 ---
 
-### What’s Next?
++ What’s Next?
 - Interested in robots? We could program a simple robotic arm motion.
 - Like CNC? I can show you basic G-code for your bracket.
 - Want more Arduino? We could add a button or LED to this system.
@@ -706,7 +706,7 @@ I’d be happy to introduce you to the basics of control theory—or "Regelungst
 
 ---
 
-### 1. What is Control Theory?
++ 1. What is Control Theory?
 Control theory is the science of designing systems that automatically adjust themselves to achieve a desired outcome. It’s like teaching a machine to "think" and respond to changes.
 
 - **Example**: A thermostat keeps your room at 20°C by turning the heater on or off.
@@ -714,42 +714,42 @@ Control theory is the science of designing systems that automatically adjust the
 
 ---
 
-### 2. Core Concepts
++ 2. Core Concepts
 Here are the foundational ideas you need to grasp:
 
-#### a. System
++ a. System
 - The "thing" you’re controlling (e.g., a motor, a heater, a car’s speed).
 - **German**: "System" or "Prozess" (process).
 
-#### b. Input and Output
++ b. Input and Output
 - **Input**: What you feed into the system (e.g., a temperature setpoint of 20°C).
   - **German**: "Eingang" or "Sollwert" (setpoint).
 - **Output**: What the system produces (e.g., the actual room temperature).
   - **German**: "Ausgang" or "Istwert" (actual value).
 
-#### c. Feedback
++ c. Feedback
 - Feedback is measuring the output and comparing it to the input to correct errors.
 - **Example**: If the room is 18°C but you want 20°C, feedback tells the heater to turn on.
 - **German**: "Rückkopplung" (feedback).
 
-#### d. Controller
++ d. Controller
 - The "brain" that decides how to adjust the system based on feedback.
 - **Example**: A thermostat’s logic (turn heater on/off).
 - **German**: "Regler" (controller).
 
 ---
 
-### 3. Open-Loop vs. Closed-Loop Control
++ 3. Open-Loop vs. Closed-Loop Control
 These are the two big types of control systems:
 
-#### a. Open-Loop Control (Steuerung)
++ a. Open-Loop Control (Steuerung)
 - No feedback—just send a command and hope it works.
 - **Example**: Turn on a fan for 10 seconds without checking the room temperature.
 - **Pros**: Simple, cheap.
 - **Cons**: No correction if something goes wrong (e.g., fan breaks).
 - **German**: "Regelung ohne Rückkopplung" (control without feedback).
 
-#### b. Closed-Loop Control (Regelung)
++ b. Closed-Loop Control (Regelung)
 - Uses feedback to adjust the system continuously.
 - **Example**: A cruise control system adjusts the car’s throttle to maintain 100 km/h, even uphill.
 - **Pros**: Accurate, adaptive.
@@ -758,7 +758,7 @@ These are the two big types of control systems:
 
 ---
 
-### 4. The Control Loop
++ 4. The Control Loop
 A closed-loop system follows this cycle:
 1. **Setpoint (Sollwert)**: Desired value (e.g., 20°C).
 2. **Sensor**: Measures the actual value (e.g., 18°C).
@@ -769,23 +769,23 @@ A closed-loop system follows this cycle:
 
 ---
 
-### 5. Types of Controllers
++ 5. Types of Controllers
 Controllers decide how to respond to the error. Here are the basics:
 
-#### a. On/Off Controller
++ a. On/Off Controller
 - Simple: Turns the actuator fully on or off.
 - **Example**: A thermostat—heater on below 20°C, off above.
 - **German**: "Ein/Aus-Regler".
 - **Problem**: Can oscillate (overshoot and undershoot).
 
-#### b. Proportional Controller (P-Controller)
++ b. Proportional Controller (P-Controller)
 - Adjusts the output proportional to the error.
 - **Example**: Error = 2°C → Heater at 20% power; Error = 5°C → 50% power.
 - **German**: "P-Regler".
 - **Pro**: Smoother than on/off.
 - **Con**: May not reach the exact setpoint (steady-state error).
 
-#### c. PID Controller
++ c. PID Controller
 - The gold standard: Combines **Proportional**, **Integral**, and **Derivative** actions.
   - **P**: Reacts to current error.
   - **I**: Fixes past errors (accumulated over time).
@@ -796,7 +796,7 @@ Controllers decide how to respond to the error. Here are the basics:
 
 ---
 
-### 6. A Simple Example: Temperature Control
++ 6. A Simple Example: Temperature Control
 Imagine controlling a water heater:
 - **Setpoint**: 40°C.
 - **Sensor**: Measures water at 35°C.
@@ -806,7 +806,7 @@ Imagine controlling a water heater:
 
 ---
 
-### 7. Key Terms in German and English
++ 7. Key Terms in German and English
 - **Regelkreis**: Control loop.
 - **Störgröße**: Disturbance (e.g., cold air messing with your heater).
 - **Anstiegszeit**: Rise time (how fast it reaches the setpoint).
@@ -815,7 +815,7 @@ Imagine controlling a water heater:
 
 ---
 
-### Your First Control Theory Exercise
++ Your First Control Theory Exercise
 Try this mentally (or with a pencil):
 - **System**: A car’s speed.
 - **Setpoint**: 60 km/h.
@@ -828,14 +828,14 @@ Try this mentally (or with a pencil):
 
 ---
 
-### Getting Started
++ Getting Started
 - **Simulation**: Use Tinkercad Circuits or MATLAB Simulink (free student version) to play with a virtual PID controller.
 - **Real-World**: Get an Arduino and a temperature sensor (e.g., DS18B20) to build a basic heater controller.
 - **Learn More**: Search “Grundlagen der Regelungstechnik” on YouTube (e.g., German university lectures) or “Control Theory Basics” in English.
 
 ---
 
-### What’s Next?
++ What’s Next?
 - Want to tune a PID controller for a fake system (e.g., a motor)?
 - Curious about stability (why systems oscillate)?
 - Or try a hands-on Arduino control project?
@@ -848,16 +848,16 @@ Welcome to the world of software engineering! It’s a vast and exciting field t
 
 ---
 
-### Must-Know Knowledge in Software Engineering
++ Must-Know Knowledge in Software Engineering
 Software engineering is about designing, writing, testing, and maintaining code to solve problems. Here’s what you need to grasp as a beginner:
 
-#### 1. Programming Fundamentals
++ 1. Programming Fundamentals
 - **Variables**: Containers for storing data (e.g., numbers, text).
 - **Data Types**: What kind of data a variable holds (e.g., integers, strings).
 - **Control Structures**: Ways to control the flow of a program (e.g., loops, if-statements).
 - **Functions**: Reusable blocks of code that perform tasks.
 
-#### 2. Problem-Solving and Algorithms
++ 2. Problem-Solving and Algorithms
 - **Algorithms**: Step-by-step instructions to solve a problem (e.g., sorting a list).
 - **Logic**: Breaking problems into manageable pieces (e.g., “If this, then that”).
 
