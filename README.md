@@ -1993,7 +1993,7 @@ Since you’re curious about tools like Jupyter Notebook, Google Colab, and Goog
 
 What Are These Tools Mainly For?
 
-     1. Jupyter Notebook
+1. Jupyter Notebook
 - **Purpose**: Jupyter Notebook is an open-source tool for creating interactive documents (called "notebooks") that mix live code, text, equations, and visualizations. It’s a go-to for experimenting, analyzing data, and sharing step-by-step processes.
 - **Main Use**: Data science, machine learning, and education. You can write code (mostly Python, but also R, Julia, etc.), see results instantly, and explain it with text—all in one place.
 - **Example**: Imagine you’re analyzing website traffic data. You could use Jupyter to load the data, plot a graph, and write notes about trends—all in a single notebook.
@@ -2101,7 +2101,7 @@ For example, when someone says “ESP32 is my dev platform,” they mean they’
 Basic Concepts in Developing Embedded Systems
 Embedded systems are small computers built into devices to perform specific tasks (e.g., controlling a microwave or a car’s engine). Here’s what you need to know as a beginner:
 
-     1. What is an Embedded System?
+1. What is an Embedded System?
 - A mini-computer with a microcontroller (MCU) or microprocessor (MPU) at its heart, designed for one job.
 - **Example**: A smart light bulb—its embedded system turns it on/off and connects to Wi-Fi.
 
@@ -2252,7 +2252,7 @@ Here’s what industrial developers typically aim for:
 Do Industrial Developers Use Platforms Like ESP32, STM32, etc.?
 Yes and no—it depends on the stage and purpose. Those platforms you’ve learned about (called **development boards** or **reference platforms**) are common in industrial settings, but their role changes:
 
-     1. Prototyping and Proof-of-Concept
+1. Prototyping and Proof-of-Concept
 - **Yes, They Use Them**: Industrial developers often start with platforms like STM32, ESP32, or Arduino to test ideas quickly.
   - **Example**: An engineer might use an STM32 Nucleo board to prototype a motor control system for a conveyor belt, tweaking the firmware until it works.
 - **Why**: These boards are cheap, well-documented, and have lots of community support—perfect for experimenting.
@@ -2300,7 +2300,7 @@ Hobbyist/Prototype Workflow (What You’ve Learned)
 Tools and Platforms in Industry
 Industrial developers don’t always ditch the platforms you know—they adapt them or use specialized ones:
 
-     1. Industrial-Grade MCUs
+1. Industrial-Grade MCUs
 - **STM32**: Very common in industry—used in custom designs for automation, robotics.
 - **Microchip PIC/AVR/SAM**: Reliable for rugged applications (e.g., HVAC controls).
 - **TI MSP430/CC Series**: Low-power for sensors or meters.
@@ -2357,7 +2357,7 @@ Since you’ve been exploring a wide range of engineering topics—hardware (PCB
 
 Must-Know Knowledge in This Engineering Field
 
-     1. Signal Processing
+1. Signal Processing
 - **What**: Understanding and manipulating signals (e.g., sensor data, audio, voltage) to extract useful info or control systems.
 - **Why**: Ties into your control theory interest—most automation systems rely on processing signals (e.g., temperature readings) to make decisions.
 - **Basics**:
@@ -2438,7 +2438,7 @@ Must-Know Knowledge in This Engineering Field
 - **Learn**: Read about “systems thinking” online.
 
 
-    How This Fits Your Journey
+How This Fits Your Journey
 - **Hardware (PCB/Embedded)**: Power management and signal processing enhance your designs.
 - **Software (Python/C++)**: Real-time systems and version control level up your coding.
 - **Automation/Control**: Communication protocols and testing tie into industrial workflows.
@@ -2446,7 +2446,7 @@ Must-Know Knowledge in This Engineering Field
 
 
 
-    Industrial vs. Hobbyist Bonus
+Industrial vs. Hobbyist Bonus
 In industry, these extras are critical:
 - **Documentation**: Detailed specs and manuals (not just code comments).
 - **Certifications**: CE, UL for safety—your PCB might need this.
