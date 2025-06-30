@@ -2133,7 +2133,7 @@ Embedded systems are small computers built into devices to perform specific task
 Platforms You Mentioned
 Let’s clarify what ARM, Microchip, ESP32, and STM32 are as dev platforms:
 
-     1. ARM
+1. ARM
 - **What**: Not a single chip but a family of CPU designs by ARM Holdings. Companies license these designs (e.g., Cortex-M series) to make MCUs.
 - **Role**: The “brain” inside many platforms like STM32 or ESP32.
 - **Why**: Efficient, widely supported—your control theory sims could run on ARM-based chips.
@@ -2158,7 +2158,7 @@ Let’s clarify what ARM, Microchip, ESP32, and STM32 are as dev platforms:
 Other Platforms for Embedded Systems
 Beyond what you heard, here are more dev platforms you might encounter:
 
-     1. Raspberry Pi Pico
+1. Raspberry Pi Pico
 - **What**: A cheap MCU board (RP2040 chip) from the Raspberry Pi folks.
 - **Why**: Simple, supports MicroPython—great for beginners.
 - **Example**: Blinking LEDs or reading sensors.
