@@ -2780,7 +2780,7 @@ By following these recommendations, you'll build a solid foundation in C++ and e
 
 Here are some recommended learning resources for each of the relevant technologies:
 
-    Automation & Robotics Technologies
+Automation & Robotics Technologies
 
 **1. Autonomous Mobile Robots (AMR):**
    - *Book:* "Introduction to Autonomous Mobile Robots" by Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza. This comprehensive guide covers the principles of mobile robotics, including navigation, localization, and motion planning.
@@ -2854,6 +2854,4 @@ These resources should provide a solid foundation for understanding and masterin
 
 ---
 
-
----
 
