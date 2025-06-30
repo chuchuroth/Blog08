@@ -896,7 +896,7 @@ Software engineering is about designing, writing, testing, and maintaining code 
 - **Version Control**: Git (e.g., GitHub) to track changes in code.
 - **Debugging**: Finding and fixing bugs.
 
-     5. Key Concepts
+5. Key Concepts
 - **Object-Oriented Programming (OOP)**: Organizing code into "objects" (e.g., a "Car" with properties like speed).
 - **Input/Output**: How programs interact with users or files.
 - **Efficiency**: Writing code that runs fast and uses minimal resources.
@@ -911,7 +911,7 @@ As a beginner, focus on fundamentals and one language first—then branch out!
  +   Python: Basic Concepts
 Python is beginner-friendly, readable, and widely used in automation, data science, and web development.
 
-     1. Hello, World!
+1. Hello, World!
 ```python
 print("Hello, World!")
 ```
@@ -951,7 +951,7 @@ print(greet("Bob"))    Outputs: Hello, Bob!
 ```
 - **Explanation**: `def` defines a function; `return` gives back a result.
 
-     5. Lists (Arrays in Other Languages)
+5. Lists (Arrays in Other Languages)
 ```python
 fruits = ["apple", "banana", "cherry"]
 print(fruits[0])    Outputs: apple
@@ -959,7 +959,7 @@ fruits.append("orange")    Adds orange
 ```
 - **Explanation**: Lists store multiple items; access them with `[index]` (starts at 0).
 
-     Why Python?
+Why Python?
 - Easy syntax, huge libraries (e.g., for automation or math), and quick to learn.
 
 
@@ -967,7 +967,7 @@ fruits.append("orange")    Adds orange
  +   C++: Basic Concepts
 C++ is powerful, fast, and common in systems programming, games, and embedded devices (like your Arduino from earlier).
 
-     1. Hello, World!
+1. Hello, World!
 ```cpp
  include <iostream>
 int main() {
@@ -1021,7 +1021,7 @@ int main() {
 ```
 - **Explanation**: Functions need a return type (e.g., `int`); defined outside `main`.
 
-     5. Arrays
+5. Arrays
 ```cpp
 int numbers[3] = {1, 2, 3};
 std::cout << numbers[0] << std::endl;  // Outputs: 1
@@ -1031,9 +1031,9 @@ std::cout << numbers[0] << std::endl;  // Outputs: 1
      Why C++?
 - Fast, gives you control over hardware, and widely used in performance-critical apps.
 
----
 
-    Python vs. C++: Quick Comparison
+
+Python vs. C++: Quick Comparison
 - **Syntax**: Python is simpler; C++ is stricter with types and semicolons.
 - **Speed**: C++ is faster (compiled); Python is slower (interpreted).
 - **Use**: Python for quick scripts/automation; C++ for systems/embedded.
@@ -1596,7 +1596,7 @@ Windows is a **proprietary operating system** developed by Microsoft. Unlike Lin
 
 Basics of the Windows System
 
-     1. File System
+1. File System
 - Windows uses drives (C:, D:, etc.) instead of a single root (`/`) like Linux.
 - **Key Folders**:
   - `C:\Windows`: System files (don’t mess with these unless you know what’s up).
