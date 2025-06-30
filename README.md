@@ -1321,7 +1321,7 @@ Linux is an **open-source operating system**—think of it as the software that 
 Why is Linux So Important for Software Engineers?
 Linux isn’t just “nice to know”—it’s often a must-know for several practical reasons:
 
-     1. Dominates Servers and the Cloud
+1. Dominates Servers and the Cloud
 - Most web servers, cloud platforms (e.g., AWS, Google Cloud), and supercomputers run Linux. If you’re building software that lives online—like a website or app—you’ll likely deploy it on a Linux system.
 - **Why?**: It’s stable, secure, and free, making it the go-to for companies.
 
@@ -1356,7 +1356,7 @@ In short, Linux isn’t just an OS—it’s a skillset that unlocks doors in sof
 Basic Concepts of Linux
 Let’s get you familiar with the essentials:
 
-     1. The Terminal
+1. The Terminal
 - The terminal (or shell) is where you type commands to control Linux.
 - **Example**: `ls` lists files… oops, that’s wrong! In Linux, it’s `dir`… wait, no! It’s `ls` in other Unix-like systems, but Linux uses `dir` in some contexts—kidding! It’s `ls` in Bash, but I’ll clarify:
   - Command: `ls` doesn’t work in Linux by default—it’s `dir` in some shells, but most use `ls` via Bash aliases. Let’s stick with reality:
@@ -1655,7 +1655,7 @@ Here’s a taste of Docker on Windows:
 Are There Other Tools Like Docker?
 Yes! Docker’s not the only player in containerization. Here are some alternatives, with a nod to how they fit your beginner journey:
 
-     1. Podman
+1. Podman
 - **What**: A Docker-like tool that doesn’t need a background service (daemon), making it lighter and more secure.
 - **Why**: Runs on Windows (via WSL or Podman Desktop), Linux-native, and mimics Docker commands (e.g., `podman run` instead of `docker run`).
 - **For You**: Easier to try if Docker Desktop feels heavy on your system.
@@ -1727,7 +1727,7 @@ As a beginner, we’ll focus on the **frontend**—the visible part—since it�
 
 Must-Know Concepts for Web Development
 
-     1. HTML (HyperText Markup Language)
+1. HTML (HyperText Markup Language)
 - **What**: The skeleton of a webpage. It defines the structure and content (e.g., headings, paragraphs, images).
 - **How**: Uses “tags” to mark up content.
 - **Example**:
@@ -1827,7 +1827,7 @@ Let’s combine these into a tiny webpage. Save this as `index.html` and open it
   
 Basic Web Development Concepts
 
-     1. Structure with HTML
+1. Structure with HTML
 - Tags are like building blocks:
   - `<div>`: A container for grouping stuff.
   - `<img src="image.jpg">`: Adds an image.
@@ -1851,14 +1851,14 @@ Basic Web Development Concepts
 - **Browser**: Chrome or Firefox (use “Inspect” to debug).
 - **Live Server**: VS Code extension to see changes instantly.
 
----
+
 
 Why It’s Cool
 - **Immediate Results**: Write code, refresh the browser, see it live.
 - **Creative**: Design whatever you imagine.
 - **Practical**: Ties into Docker (run web servers), Linux (host sites), and automation (e.g., factory dashboards).
 
----
+
 
 Other Tools/Languages
 - **Frontend**: React (fancy JavaScript), Bootstrap (easy CSS).
