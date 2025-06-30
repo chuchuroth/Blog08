@@ -1309,8 +1309,8 @@ What sparks your interest—trying one of these programs, diving deeper into a c
 You’re absolutely right—Linux is a big deal in software engineering, and I’m excited to introduce you to it! I’ll explain what Linux is, why it’s so important for software engineers, and cover some basic concepts to get you started.
 
 
-
-    What is Linux?
+What is Linux?
+    
 Linux is an **open-source operating system**—think of it as the software that runs your computer, like Windows or macOS, but with a twist: its source code is freely available for anyone to use, modify, and distribute. It was created in 1991 by Linus Torvalds and has since grown into a powerhouse thanks to a global community of developers.
 
 - **Key Feature**: It’s not owned by a single company (unlike Windows by Microsoft or macOS by Apple). It’s built collaboratively.
